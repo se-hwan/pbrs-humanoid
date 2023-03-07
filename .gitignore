@@ -1,0 +1,8 @@
+gpugym/analysis*
+gpugym/.vscode*
+logs/
+gpugym/scripts/wandb/
+.idea/
+gpuGym.egg-info/
+__pycache__
+.vscode*
