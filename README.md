@@ -1,6 +1,7 @@
 # Overview #
 This repository is a port of legged_gym from the RSL research group.
-It contains the code and results of the paper "Benchmarking Potential Based Rewards for Learning Humanoid Locomotion".
+It contains the code and results of the paper "Benchmarking Potential Based Rewards for Learning Humanoid Locomotion", located here: 
+https://ieeexplore.ieee.org/abstract/document/10160885/
 
 ![](https://github.com/se-hwan/pbrs-humanoid/blob/dev/gpugym/humanoid_running.gif)
 
